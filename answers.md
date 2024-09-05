@@ -21,4 +21,12 @@ Answer 7. On branch master nothing to commit, working tree clean
 
 Answer 8. commit 59f496de9442aff63977306740430eb100b3d76a (HEAD -> master)Author: shayza05 <sp691823@ohio.edu>Date:   Thu Sep 5 16:15:15 2024 -0400
 
-Answer 9.
+Answer 9. There's nothing to commit and the answers are all there
+
+Answer 10. No it didn't show
+
+Answer 11. It says there was an error
+
+Answer 12 Yes
+
+Answer 13. .  ..  .git  .gitignore  README.md
